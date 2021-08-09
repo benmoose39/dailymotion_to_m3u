@@ -6,7 +6,7 @@
 Edit `dailymotion_channel_info.txt` to add more dailymotion channels
 
 ### Usage
-Paste this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
+Paste this URL: `https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion.m3u` to any player which supports M3U playlists
 
 ### Run the tool on your local machine
 ``` bash
