@@ -1,5 +1,7 @@
 <h1 align="center"> Dailymotion_to_m3u </h1>
 
+`https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion.m3u`
+
 ### Add more channels
 Edit `dailymotion_channel_info.txt` to add more dailymotion channels
 
