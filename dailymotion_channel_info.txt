@@ -1,3 +1,6 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
 Metro TV | | |
 https://www.dailymotion.com/video/k236ofBIxajxDiti8CY
 tvOne | | |
