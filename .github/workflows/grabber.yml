@@ -33,7 +33,8 @@ jobs:
         run: |
           pwd
           cd scripts
-          python3 dailymotion_m3ugrabber.py > ../dailymotion.m3u
+          #python3 dailymotion_m3ugrabber.py > ../dailymotion.m3u
+          python3 test.py > ../testpl.m3u
           echo "m3u grabbed"
         
       - name: git add
