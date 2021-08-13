@@ -20,7 +20,7 @@ gh_basem3u = 'https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/ma
 
 def grab(line, ch_name):
     try:
-        os.chdir('ch')
+        os.chdir('../ch/')
         _id = line.split('/')[4]
         response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}').json()['qualities']['auto'][0]['url']
         m3u = s.get(response).text
@@ -29,7 +29,7 @@ def grab(line, ch_name):
     finally:
         with open (f'{ch_name}.m3u', 'w') as channel:
             channel.write(m3u)
-        os.chdir('../')
+        os.chdir('../scripts/')
 
 print('#EXTM3U')
 print(banner)
