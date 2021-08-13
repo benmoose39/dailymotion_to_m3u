@@ -14,10 +14,10 @@ banner = r'''
 
 import requests
 import os
-
+#-------------------------------------------------------------------------------------------------------------------------
+GH_BASEPATH = 'https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/ch/'
+#--------------------------------------------------------------------------------------------------------------------------
 na = 'https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u'
-gh_basem3u = 'https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/ch/'
-
 def grab(line, ch_name):
     try:
         os.chdir('../ch/')
@@ -48,6 +48,6 @@ with open('../dailymotion_channel_info.txt') as f:
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
             grab(line, ch_name)
-            print(f'{gh_basem3u}{ch_name.replace(" ", "%20")}.m3u')
+            print(f'{GH_BASEPATH}{ch_name.replace(" ", "%20")}.m3u')
             
 
