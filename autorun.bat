@@ -2,6 +2,6 @@
 
 echo Creating your playlist...
 cd scripts
-python dailymotion_m3ugrabber.py > ../dailymotion.m3u
+python dailymotion_localrun.py > ../dailymotion.m3u
 
 pause
