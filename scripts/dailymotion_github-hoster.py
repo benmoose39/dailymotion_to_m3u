@@ -50,5 +50,4 @@ with open('../dailymotion_channel_info.txt') as f:
             grab(line, ch_name)
             print(f'{gh_basem3u}{ch_name.replace(" ", "%20")}.m3u')
             
-if 'temp.txt' in os.listdir():
-    os.system('rm temp.txt')
+
