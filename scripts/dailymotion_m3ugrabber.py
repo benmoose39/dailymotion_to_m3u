@@ -22,8 +22,7 @@ def grab(line):
     try:
         _id = line.split('/')[4]
         response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}').json()['qualities']['auto'][0]['url']
-        m3u = s.get(response).text
-        m3u = m3u.strip().split('\n')[-1]
+        m3u = response
     except:
         m3u = na
     print(m3u)
