@@ -16,6 +16,8 @@ import requests
 import os
 
 na = 'https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u'
+gh_basem3u = 'https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/ch/'
+
 def grab(line):
     try:
         _id = line.split('/')[4]
