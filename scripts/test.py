@@ -18,15 +18,19 @@ import os
 na = 'https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u'
 gh_basem3u = 'https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/ch/'
 
-def grab(line):
+def grab(line, ch_name):
     try:
+        os.chdir('ch')
         _id = line.split('/')[4]
         response = s.get(f'https://www.dailymotion.com/player/metadata/video/{_id}').json()['qualities']['auto'][0]['url']
         m3u = s.get(response).text
         m3u = m3u.strip().split('\n')[-1]
     except:
         m3u = na
-    print(m3u)
+    finally:
+        with open (f'{ch_name}.m3u', 'w') as channel:
+            channel.write(m3u)
+        os.chdir('../')
 
 print('#EXTM3U')
 print(banner)
@@ -44,7 +48,8 @@ with open('../dailymotion_channel_info.txt') as f:
             tvg_id = line[3].strip()
             print(f'\n#EXTINF:-1 group-title="{grp_title}" tvg-logo="{tvg_logo}" tvg-id="{tvg_id}", {ch_name}')
         else:
-            grab(line)
+            grab(line, ch_name)
+            print(f'{gh_basem3u}{ch_name.replace(" ", "%20")}.m3u')
             
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
