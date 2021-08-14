@@ -32,8 +32,7 @@ jobs:
       - name: Main
         run: |
           pwd
-          cd scripts
-          python3 dailymotion_github-hoster.py > ../dailymotion.m3u
+          rm -rf ch
           echo "m3u grabbed"
         
       - name: git add
