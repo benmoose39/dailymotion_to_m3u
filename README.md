@@ -2,11 +2,17 @@
 
 [![M3U generator for Dailymotion](https://github.com/benmoose39/dailymotion_to_m3u/actions/workflows/grabber.yml/badge.svg)](https://github.com/benmoose39/dailymotion_to_m3u/actions/workflows/grabber.yml)
 
-`https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion.m3u`
+`https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion_{PREFERRED SERVER}.m3u`
 m3u links of Dailymotion live channels, auto-updated everyday.
 
 ### Usage
-Paste this URL: `https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion.m3u` to any player which supports M3U playlists
+Paste one of the following URL based on your location, to avoid buffering: 
+
+`https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion_US.m3u`
+
+`https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion_EU.m3u`
+
+`https://raw.githubusercontent.com/benmoose39/dailymotion_to_m3u/main/dailymotion_SG.m3u`
 
 ### Run the tool on your local machine
 ``` bash
