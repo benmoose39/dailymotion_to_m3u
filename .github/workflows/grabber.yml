@@ -32,8 +32,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x autorun.sh
-          ./autorun.sh
+          chmod +x autorun_github.sh
+          ./autorun_github.sh
           #cd scripts
           #python3 dailymotion_m3ugrabber.py > ../dailymotion.m3u
           echo "m3u grabbed"
