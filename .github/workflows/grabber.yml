@@ -32,7 +32,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          rm -rf ch
+          chmod +x autorun.sh
+          ./autorun.sh
           echo "m3u grabbed"
         
       - name: git add
