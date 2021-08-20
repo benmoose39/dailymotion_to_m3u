@@ -22,6 +22,11 @@ chmod +x autorun.sh
 ./autorun.sh
 ```
 
+### Use proxy to grab m3u
+`python3 dailymotion_m3ugrabber.py <proxy_server_ip:port>`
+
+eg: `python3 dailymotion_m3ugrabber.py 192.168.13.13:1337`
+
 ### Add more channels
 Connect on discord and request new channels or create a pull request
 
