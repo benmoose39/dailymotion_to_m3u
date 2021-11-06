@@ -33,3 +33,8 @@ Connect on discord and request new channels or create a pull request
 If running locally, edit `dailymotion_channel_info.txt` to add more dailymotion channels.
 
 Connect: https://discord.gg/dmgYmAEdee
+
+
+### Support
+
+🙂 https://www.buymeacoffee.com/benmoose39
