@@ -12,58 +12,58 @@
 
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Metro TV
-https://stream-03.nyc.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS2eCuPnrQ4lj1fcG6qKOh-mIP2TuB-Ly_xuyMT8P3-bb)/dm/3/x75p70w/d/live-3.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSxVh7RDbIH27Tbasf3GEEGPm3YyhkJIMzfGgWQq_v0kF)/dm/3/x75p70w/d/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", tvOne
-https://stream-01.nyc.dailymotion.com/sec(045Msia06uu92p_oLsoybIEScW6KtXpFBPUeqz2bRHklzEbRWzfacbLzZRmSFziO)/dm/3/x619221/s/live-1.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(045Msia06uu92p_oLsoybNXOw_0hw1rjgzPe4_H6SOttdQBZ2me9U5o9YmIjXG5u)/dm/3/x619221/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Action 24
-https://stream-04.nyc.dailymotion.com/sec(045Msia06uu92p_oLsoybIeUtHmEYWrBNvS3FAVC3klpB9zgBKq3taT2KDzxXeRp)/dm/3/x61fbhs/s/live-2.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(045Msia06uu92p_oLsoybDaURV52Xgbl_wvIu2XZQKqWa2Z-pxp5U0zLrCPUGqxC)/dm/3/x61fbhs/s/live-2.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", BLUE SKY
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Star Kentrikes Elladas
-https://stream-03.nyc.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvAPAMmv6QJqeaTQhAGAsgMju8ktX-ZRG6SMpptgXxypy)/dm/3/xqjey2/d/live-3.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvDe0SkzUWTluoYPgvzW6kEYCqKPLb11RqPO-wHU3h4id)/dm/3/xqjey2/d/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Kompas TV
-https://stream-04.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3CUlCWbPb7sI9vtfy29CAqLUaJr5KmWo_vjx-ZjKCO6)/dm/3/x6pz4sa/d/live-4.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G2O7s61zUieugHIE0mvHUYUXCMT5b3O0s4dKev5uQvbx)/dm/3/x6pz4sa/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", FENERBAHÇE TV
-https://stream-04.nyc.dailymotion.com/sec(045Msia06uu92p_oLsoybIeUtHmEYWrBNvS3FAVC3klpB9zgBKq3taT2KDzxXeRp)/dm/3/x61fbhs/s/live-2.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(045Msia06uu92p_oLsoybDaURV52Xgbl_wvIu2XZQKqWa2Z-pxp5U0zLrCPUGqxC)/dm/3/x61fbhs/s/live-2.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Euronews
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", BEYAZ TV
-https://stream-04.nyc.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzK7oHDz2xv0tZaZ1i02S9Vb6nefWgVi_-QAIi3aeicdv)/dm/3/x4kopfq/d/live-4.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(q7jSYiQNk7E3c--qnkaEzM4BabDHgoJEU32Lqg2YBhmBCMLszRyAEnacP6qTD4cM)/dm/3/x4kopfq/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", France Info
-https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOBs55023BLz6TeH52sB6MeGQjZYX9FHH1ZmcWYQyn9m0)/p/dm/3/x4rdeu6/d/live-3.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOBMU_yvi4WBzj3VJOGLoP2GnP8bg1fD55iacd8pCCPBY)/p/dm/3/x4rdeu6/d/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Trans TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 24 TV
-https://stream-03.nyc.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyOhxt8GeMNZF9Gk4AcXFGazjVmzA7q5G1IeYi5gvVk3j)/dm/3/x648u9s/s/live-1.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyJgyk4nvWu8MCtxPvoUd3kVJMacFE-WNqkRJ4LJDpq56)/dm/3/x648u9s/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 360
-https://stream-02.nyc.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyEinMjZlBF028SVlEkkvvApGkjcseZgQTSBw4H9a8iKT)/dm/3/x648uq8/s/live-1.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(4wsleh6emjMKklQV7OTPyJeqpDtWuIb6LVwYgt6M1A3JYA2pCRZ3SFQq_UGFTQPL)/dm/3/x648uq8/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", NUMBER ONE
-https://stream-04.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDNSIX_0D-nuiRrP2IYL85vl2HRsDfgatzHjZ9XZUiFOZ)/dm/3/x67c77j/s/live-1.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDJxxLQrXzxr6tRIeaJvpSvvk42ZgbFWyoPGvl8haHQhf)/dm/3/x67c77j/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", NUMBER ONE TÜRK
-https://stream-02.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDIaF8pgaK3XHJz3GRoBQH_-w6O4LNx-gAdVb_2byMYvq)/dm/3/x67cguc/s/live-1.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDICGo0oe0PkJMKxM7bYgf00Brc7Eglcwd4zSYMtgtVhQ)/dm/3/x67cguc/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", NUMBER ONE AŞK
-https://stream-03.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDNR7T33q2MPY2dUCnqYT3szex1lz2LwouZgkPZrsfAu9)/dm/3/x67ch24/s/live-1.m3u8#cell=lnyc
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", NUMBER ONE DAMAR
-https://stream-02.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDKeYL-mYpW729R04M9SiKTIpPZwX6Pjh0MRlCBSYn9Dk)/dm/3/x67ch8g/s/live-1.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDPV97BZrSd14gYfDPp78SWBKgryL7Zb0FWNrkmGE5J42)/dm/3/x67ch8g/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 22 - Nation TV
-https://stream-02.nyc.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSceyAKjU9BbS0sCuBcnEhBMJcYSGpeLkIW9ACCNvHyS2)/dm/3/x6eoldf/d/live-3.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSaDJii9_N0KiC6TGVquboqj8qEi81W0WHSwecbOSvD46)/dm/3/x6eoldf/d/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Trans 7
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -72,16 +72,16 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", NTV
-https://stream-03.nyc.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrf3IQ-oghm4o5Aku0uiYBbUEtH0ww7NM6ViNEGcw9LFy)/dm/3/x729weu/s/live-1.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXraeWegLOCkWiYEPT8uA_JGLHBU69niOR3OytM9Cp_91S)/dm/3/x729weu/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", Aswaja TV
-https://stream-01.nyc.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xu96oxsRKNGVLS1bnDKnjq2vuTy-J0jM33GuX01YDQZD)/dm/3/x748iuo/s/live-1.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xjGKWzkwIhaEUGeaW6iQUCKgYz7GqB_keNs61urt6ksY)/dm/3/x748iuo/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="Eg" tvg-logo="" tvg-id="", AL AAN TV
-https://stream-02.nyc.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xu1aa01k1xPxVXlL7cQ9dmvOpYKQdDadgggpKToXk1by)/dm/3/x74wje5/s/live-3.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xtlw696N48w4FWvUlSEm4fnoojMrQpCy_zfZfL8cOwc1)/dm/3/x74wje5/s/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="" tvg-logo="" tvg-id="", 30 - MCOT
-https://stream-02.nyc.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xgzC96cakPfUp1bFfVmG3nqymbQPMJVv4LUjDjcAbLX1)/dm/3/x74wlgj/s/live-2.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xlKQ37QV0ak8qrNItmTyHfkUWii17PGGauaIZ5F5MUxQ)/dm/3/x74wlgj/s/live-2.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="Eg" tvg-logo="" tvg-id="", AL AAN TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -90,7 +90,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Cm" tvg-logo="" tvg-id="", CRTV
-https://stream-02.nyc.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5657AhfLGdw80HUr1FwoCOAMZRVZckPp__l9G98sD0IS7g)/dm/3/x7o9p4a/s/live-2.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql5652FlWsdwEfgw7LkonendKw-c9c1HMSpkRix4RM3a8okM)/dm/3/x7o9p4a/s/live-2.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="Cm" tvg-logo="" tvg-id="", CRTV News
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -108,7 +108,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://www.kamemetv.co.ke/wp-content/uploads/2020/08/Kameme-TV-Logo.png" tvg-id="", KamemeTV Kenya
-https://stream-01.nyc.dailymotion.com/sec(nitAgzxq_qCa0CId9XzFH6z0C8CINkk7EN_DY84p3UgLChO_Kk1eDxWOimVXV4Ln)/dm/3/x6ol8sj/d/live-2.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(nitAgzxq_qCa0CId9XzFH4J1MfVcL2L0KvWfZPOKQlz-o6TRrbmySNbNqhNU-1Vd)/dm/3/x6ol8sj/d/live-2.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/K24_Logo_Full_Grey.png/1200px-K24_Logo_Full_Grey.png" tvg-id="", K24 TV Kenya
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -117,13 +117,13 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="" tvg-id="", Farmers TV Kenya
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://stream-04.sv4.dailymotion.com/sec(NVVRrtil_Rd2C4r6Ql565-0TNwXw2_GHjVhJccS0mQ2Ip5jze7JdRMkxyUjDF6bu)/dm/3/x7opfez/s/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600014627672/SpAqewsBd_hEAAqA-NW8gP40brrM1HZt09CCFLFdmwyc0mqJz6Fs8afF_wS7LtX695o=s300?v=1" tvg-id="", Spice FM Kenya
-https://stream-03.nyc.dailymotion.com/sec(UcClT0X5V1hUlWimuq39DjkRQlZ41Yv5PZBNkMW_fKeTqSrXFGlqva2v3i8dplni)/dm/3/x7eo9oe/d/live-4.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(UcClT0X5V1hUlWimuq39DuKXDCtqd_UgnZTwR2P9lacpi20H0LD3wtwCunwC4vPz)/dm/3/x7eo9oe/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="http://www.standardmedia.co.ke/ktnnews/ktn-news/assets/images/logo.png" tvg-id="", KTN News Kenya
-https://stream-03.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZa_Fl9lBi0Yme4GRSb10k9TDqKqCMgWKknKCQO-60MlM)/dm/3/x7tz712/d/live-3.m3u8#cell=lnyc
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="East Africa" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ke-ebru-tv-kenya.jpg" tvg-id="", EbruTV Kenya
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -132,16 +132,16 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", CNEWS
-https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOOMuQdEJS2X9P9jRC3DnOIHRN4T2-Kq4yHMFMkzgcjlm)/p/dm/3/x5idxxp/s/live-4.m3u8
+https://stream-03.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOJrjgqgkxrRDmeN6CNR5d0SAM13ysVru4xO0YTm_Buhn)/p/dm/3/x5idxxp/s/live-4.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", C8
-https://stream-01.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLmk_Dybg2lpaD_B-AI-WhfTYxHD0PPVcIIHBcZ8oyn4)/p/dm/3/x5idx4k/d/live-4.m3u8
+https://stream-01.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOLZ-XIsp_DkITsZblHSTpnAADf2oLW-bldh4yyPl3h-h)/p/dm/3/x5idx4k/d/live-4.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Canal +
-https://stream-02.nyc.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOJ-nvFxq0c8t7rsLZ3IbhwdLyRrFrvb0vKXsfPdAyrDs)/p/dm/3/x5idy49/d/live-4.m3u8
+https://stream-01.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgONSCYoOH0447QgPR-k4ct6a7T7vzaG6tZhkVxbkhzOfC)/p/dm/3/x5idy49/d/live-4.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", RTL (video feed of radio channel)
-https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjxWgHJZc0V4snm8H-lPBzmgKdnGIjuzhC9bZeVLtzc6B)/dm/3/x7rkctx/s/live-4.m3u8
+https://stream-02.sv4.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVjxMo9f2wOhZ199gYGfk6plrnNdPYvfcd4bmUnCreRsuE)/dm/3/x7rkctx/s/live-4.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", LCP (TNT)
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -150,67 +150,67 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Public Senat
-https://stream-02.nyc.dailymotion.com/sec(3ftLdWES0pUbXTKGx4u-k1j17iq2CGr7-PZ6lvKfGu_rfY4U5EoI5S5xnbGkqjAx)/dm/3/xkxbzc/d/live-2.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(3ftLdWES0pUbXTKGx4u-k-MzEM4IPcDnbyiEPWErfEQsf4s47toGLCUULvGxoe9z)/dm/3/xkxbzc/d/live-2.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Mycomedy
-https://stream-04.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW80s-sXt_F4JkFxOiOGPdtBop83N0YNjYT6yAecQ3w30)/dm/3/x7zw8t0/s/live-1.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW5zW1_ezSTmNEdlIzSJ4pyZ2VyebCGec6JsFTtLfiQaQ)/dm/3/x7zw8t0/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Tv Vendée - Le Direct
-https://stream-04.nyc.dailymotion.com/sec(5YQ8CtXO7y0DBfIVrUa1RSRjQNExu7xZks_-ytbV7sDJm0mgzWt5HnRBrzz-RT15)/dm/3/x38yjeb/s/live-1.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(5YQ8CtXO7y0DBfIVrUa1RW3LVhNgrS0ST7ZmBZZgOdUySLhdMlsri8flPfY4W8u7)/dm/3/x38yjeb/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Live dans les studios de Fun Radio
-https://stream-01.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj1U0q7nE1AFrwforzIaWh7iiXdihXdmRfLmidtyaWPHE)/dm/3/x7rk9ec/s/live-4.m3u8
+https://stream-02.sv4.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj9cqgv2MwS5JEpwKQkepdD_hRUJ4Pk8JA49nGumD5-gs)/dm/3/x7rk9ec/s/live-4.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Live téléGrenoble Isère
-https://stream-03.nyc.dailymotion.com/sec(IiyxSeU9WF7kmMjaMv3ej5Nb3_7-AaHAFUKlEXQ03pWNfwNtGmZe3dhAaz-gtBgF)/dm/3/x128fjo/s/live-1.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(IiyxSeU9WF7kmMjaMv3ej_Ij_c0NsHdGwfVfTphk3kDVSm12QgTPAB-o9b5tVGVd)/dm/3/x128fjo/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", LMtv Sarthe en direct
-https://stream-01.nyc.dailymotion.com/sec(oOfclVUK5ZJ4gacFxYFW3I5ZRgotK-NpbwM6Sw02qTzoeBUNa_LFJR7xj2_jUedz)/dm/3/xuyx0h/s/live-4.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(oOfclVUK5ZJ4gacFxYFW3FSqG7VgfV-n8V5jBNqkKA61d8AOF7a1cH-xCEgpWDex)/dm/3/xuyx0h/s/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", RADIO : Ecoutez et regardez Europe 1 en direct vidéo
-https://stream-01.nyc.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvLEosUOkHuHh0pIELjoHVRcGj1IsdtpDN4BvansgTqYf)/dm/3/xqjkfz/d/live-4.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(kIyZk1TvJ__htJbCTbJjvG01M9epnuxfL0iOWKaAyXOUSAImmi4RX4TVPBkBHzHP)/dm/3/xqjkfz/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", 8 Mont Blanc Live
-https://stream-01.nyc.dailymotion.com/sec(FBIw6_1cjAQKo7Kzrsy7L45ss92-V6VBBV0stoc7KV2edacBhwdmG7C5kilYaYj3)/dm/3/x3wqv8b/s/live-1.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(FBIw6_1cjAQKo7Kzrsy7L58bwcBmFohOoMnl8vtVIUNRSuqLhzbY4Esx6gsIPa-A)/dm/3/x3wqv8b/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Wéo direct Picardie
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Télévision Locale du Choletais
-https://stream-02.nyc.dailymotion.com/sec(IE_qlI9F8sUhFusvYyFVOOyXf38mXjpx7w8BFC1bXT8ZByhosmUTIyiaxXTiYSnh)/dm/3/x5aarnv/s/live-1.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(IE_qlI9F8sUhFusvYyFVOHNVBq_iEvxRasFIPvtAYg2My34auXUVJSIcb960V1_0)/dm/3/x5aarnv/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Télénantes en Live !
-https://stream-04.nyc.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4ZRM-bbKOMAx69g5578JOqwD87RO8StmH4MzCoRNC-eh)/dm/3/x5so98l/s/live-1.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(p8YnJV3FLjCMnNAdm2Yx4VfPrRThrC70OstH_GtSnbFAazjSPxU9puj4tnwyJBCS)/dm/3/x5so98l/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", TELESUD le direct
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7edwLXHitFuKGTa5E2O3DpvORkJ5_Lhb9CSYs5P-LqH)/dm/3/x7wrxqb/s/live-4.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyf5eV90UdAyLbxEXzidsaUIuyjqhM9Xl45kDEkMxCCr)/dm/3/x7wrxqb/s/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", TL7 en direct
-https://stream-01.nyc.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwMvP1dY9ZRVggUOhU1DoOQYbvf61Gft57XuHyryKFODH)/dm/3/x5ct4nu/s/live-1.m3u8#cell=lnyc
+https://stream-03.sv4.dailymotion.com/sec(vb0ikD3rmZA2RvEN2UsfwFvJnLxshYOo8irCpWmEz5hXZSwvBy9ALpaP_XehNZ77)/dm/3/x5ct4nu/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", SUD RADIO EST EN DIRECT
-https://stream-01.nyc.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS1TmgNVxgBl76YF4nL0rAaJQKoHm0IuHWWokbDupps2w)/dm/3/x75yzts/s/live-2.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS_UnlM49XMCz3xPWF4FjrUkdI-zBADC1RgU8mAJgssQg)/dm/3/x75yzts/s/live-2.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", RTL2
-https://stream-02.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj7y5Sb1-NYvuTE8fXvkq57d5CnSv3k0esQPYH66M9Sd2)/dm/3/x7rkbk4/s/live-4.m3u8
+https://stream-02.sv4.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj-5PXtF5LLWyzp322a7m39jfuuhzp1dx4nHREX2eUPm5)/dm/3/x7rkbk4/s/live-4.m3u8
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Suivez nos émissions en direct
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", MOUV'
-https://stream-01.nyc.dailymotion.com/sec(-8z-ydkfFnUKhC-3tlqPmpL6m-WjyVJdRVI3nDKrxLqU63vd-dTWRI0YtP0-nTtW)/dm/3/x590cb7/s/live-3.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(-8z-ydkfFnUKhC-3tlqPmg6SuCaNLyBWgIF1FoR_bkF5Czdoc91IjvIJbcvLnZHX)/dm/3/x590cb7/s/live-3.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Lyon Capitale TV
-https://stream-02.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW-IOL3tzS9UGFNKGKtGn8gDhv8YEMFewqEKHaS4fVlul)/dm/3/x7z3zqa/d/live-1.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW1Tm-JDU6tl6oW7s1OoJ-b9QDehJQF5mLiBHypRYUn2U)/dm/3/x7z3zqa/d/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", VIDÉO - Regardez France Inter en direct
-https://stream-04.nyc.dailymotion.com/sec(66HRmDFwqbaSlyQKVIB7scliCr45Iv4Tyq_QPq8Fymz2hYLucllKmuIzlfSS5T5-)/dm/3/x17qw0a/d/live-4.m3u8#cell=lnyc
+https://stream-01.sv4.dailymotion.com/sec(66HRmDFwqbaSlyQKVIB7savQxZY8h-W9VKo6ms18ny7RXhdQq5j9tdULsFhVNCwt)/dm/3/x17qw0a/d/live-4.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", D5tv
-https://stream-01.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKWzwOQ47uSvSgMmV7JGkxYBSM7ddJLWvSClpfzrOz5dRq)/dm/3/x7zw38l/s/live-1.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW7NL_Ak6jXer9cOnymS2JYCPlUBCVDqkBbs14vU4QcRg)/dm/3/x7zw38l/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", D5Music
-https://stream-01.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW9X3sx7Z-xEz2khzb4jOgkXdqbF1RKWPHM1PLhlaI4Sf)/dm/3/x7zw8q9/s/live-1.m3u8#cell=lnyc
+https://stream-02.sv4.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW5X1-kwGLtMh547L-IT02UDiH3EzRggnSYlLQGvMx_ee)/dm/3/x7zw8q9/s/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="France" tvg-logo="" tvg-id="", Corsaire TV
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -219,4 +219,4 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Greece" tvg-logo="" tvg-id="", Action24_tv
-https://stream-03.nyc.dailymotion.com/sec(045Msia06uu92p_oLsoybIeUtHmEYWrBNvS3FAVC3klpB9zgBKq3taT2KDzxXeRp)/dm/3/x61fbhs/s/live-2.m3u8#cell=lnyc
+https://stream-04.sv4.dailymotion.com/sec(045Msia06uu92p_oLsoybDaURV52Xgbl_wvIu2XZQKqWa2Z-pxp5U0zLrCPUGqxC)/dm/3/x61fbhs/s/live-2.m3u8#cell=lsv4
